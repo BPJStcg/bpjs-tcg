@@ -1,0 +1,74 @@
+[
+  {
+    "id": "bpjs-001",
+    "name": "Black Lotus",
+    "set": "Alpha",
+    "category": "Singles",
+    "condition": "Collector",
+    "price": 125.0,
+    "stock": 2,
+    "image": "https://cards.scryfall.io/normal/front/8/8/88a5e1a2-3c5c-4d4d-9b98-1a3f5c1a2e7a.jpg",
+    "stripe": "",
+    "paypal": ""
+  },
+  {
+    "id": "bpjs-002",
+    "name": "Lightning Bolt",
+    "set": "Alpha",
+    "category": "Singles",
+    "condition": "Near Mint",
+    "price": 19.99,
+    "stock": 12,
+    "image": "https://cards.scryfall.io/normal/front/7/8/78c1e4f5-6b52-4e8c-b9cc-1f8e3d6b9e31.jpg",
+    "stripe": "",
+    "paypal": ""
+  },
+  {
+    "id": "bpjs-003",
+    "name": "Sol Ring",
+    "set": "Commander",
+    "category": "Singles",
+    "condition": "Near Mint",
+    "price": 8.99,
+    "stock": 20,
+    "image": "https://cards.scryfall.io/normal/front/9/0/90f7d0f1-9a7a-4f7a-a7b5-9c1f6b7a8c90.jpg",
+    "stripe": "",
+    "paypal": ""
+  },
+  {
+    "id": "bpjs-004",
+    "name": "Counterspell",
+    "set": "Ice Age",
+    "category": "Singles",
+    "condition": "Lightly Played",
+    "price": 6.49,
+    "stock": 8,
+    "image": "https://cards.scryfall.io/normal/front/4/7/47e8b1e0-9e0f-4d1f-8c2e-5f1b4b8f6a72.jpg",
+    "stripe": "",
+    "paypal": ""
+  },
+  {
+    "id": "bpjs-005",
+    "name": "Collector Booster",
+    "set": "Modern Horizons",
+    "category": "Sealed",
+    "condition": "Factory Sealed",
+    "price": 29.99,
+    "stock": 7,
+    "image": "https://cards.scryfall.io/normal/front/0/3/03b6b0f7-6f3e-4a7c-9c4e-8f2a1b6d7c90.jpg",
+    "stripe": "",
+    "paypal": ""
+  },
+  {
+    "id": "bpjs-006",
+    "name": "Premium Card Sleeves",
+    "set": "BPJS Accessories",
+    "category": "Accessories",
+    "condition": "New",
+    "price": 9.99,
+    "stock": 25,
+    "image": "",
+    "stripe": "",
+    "paypal": ""
+  }
+]
